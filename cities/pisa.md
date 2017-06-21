@@ -14,4 +14,5 @@ location:
     lat: 43.7177141
     lon: 10.4010575
 hiatus: False
+jam_date_rule: last Monday
 ---
